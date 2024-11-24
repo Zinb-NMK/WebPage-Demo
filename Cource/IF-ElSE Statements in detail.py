@@ -12,6 +12,10 @@ else:
     print("Grade: F")
     exit()
 
+
+
+
+
 ''' if 90 <= score <= 100:
     print("Grade: A")
 elif 80 <= score < 90:
@@ -22,7 +26,7 @@ elif 60 <= score < 70:
     print("Grade: D")
 else:
     print("Grade: F")
-    exit() '''
+    exit()  '''
 
 ''' if score >= 90 and score <= 100:
     print("Grade: A")
